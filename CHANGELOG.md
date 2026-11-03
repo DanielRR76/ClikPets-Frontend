@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/DanielRR76/ClikPets-Frontend/compare/v1.0.4...v1.0.5) (2026-11-03)
+
+
+### Features
+
+* add GitHub Copilot customizations and agent instructions for ClikPets ([af23f44](https://github.com/DanielRR76/ClikPets-Frontend/commit/af23f44fb7d29008983c4dc0d10bad3e1d117ee1))
+* add skills and agents documentation for ClikPets frontend project ([1fb2a38](https://github.com/DanielRR76/ClikPets-Frontend/commit/1fb2a38a5fbe0c55eff15746ffb73cf55b0a960b))
+
 ### [1.0.4](https://github.com/DanielRR76/ClikPets-Frontend/compare/v1.0.3...v1.0.4) (2026-10-01)
 
 
